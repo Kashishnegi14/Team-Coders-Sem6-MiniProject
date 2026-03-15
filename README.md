@@ -2,7 +2,7 @@
 
 
 ## PROJECT TITLE : 
-GreenAudit : Campus Sustainability & Carbon Tracker
+GreenAudit : Campus Sustainability & Carbon Tracker 
 
 ## TEAM DETAILS :
 
