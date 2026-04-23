@@ -1,4 +1,3 @@
-
 export interface DataPoint {
   month: string;
   energy: number;
@@ -27,4 +26,18 @@ export interface SustainabilityReport {
   yearOverYearChange: number;
 }
 
-export type DashboardView = 'overview' | 'energy' | 'water-waste' | 'predictions' | 'admin';
+export type DashboardView =
+  | "overview"
+  | "energy"
+  | "water-waste"
+  | "predictions"
+  | "admin";
+export type ChatRole = "user" | "assistant";
+
+export interface ChatMessage {
+  id: string;
+  role: ChatRole;
+  text: string;
+  images: string[];
+  createdAt: string;
+}
