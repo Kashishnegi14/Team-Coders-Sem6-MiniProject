@@ -4,7 +4,7 @@
 ## PROJECT TITLE : 
 GreenAudit : Campus Sustainability & Carbon Tracker 
 
-## TEAM DETAILS :
+## TEAM  DETAILS :
 
 | Name         | Roll No    | Role        | Responsibility                          |
 | ------------ | ---------- | ----------- | --------------------------------------- |
